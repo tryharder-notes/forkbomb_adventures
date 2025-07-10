@@ -392,11 +392,6 @@ def main():
                         
             cards = ' '.join(cards[2:-7])
             
-            '''
-            print(cards)
-        
-            cards = '9 c 5 c 12 d 12 s 12 c 9 h 14 h 14 h 5 h 6 c 3 s'
-            '''
             cards = cards.split(' ')
             
             my_cards = cards[0:4]
