@@ -34,7 +34,7 @@ And when i tried to run it, I saw this message from the server.
 
 <img width="648" height="122" alt="изображение" src="https://github.com/user-attachments/assets/2a6376ac-67f8-4484-8ee1-a6be3a0546b9" />
 
-"Plan A" failed, so I switched to "Plan B". First, I wanted to analyzed network traffic to figure out how the client communicates with the server.
+"Plan A" failed, because the server performs these checks as well. I switched to "Plan B". First, I wanted to analyzed network traffic to figure out how the client communicates with the server.
 
 I found the server's IP addres using IDA. 
 
