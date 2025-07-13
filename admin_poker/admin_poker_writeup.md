@@ -46,7 +46,7 @@ After that I opened Wireshark and analyzed network traffic for this IP addres an
 
 <img width="578" height="144" alt="изображение" src="https://github.com/user-attachments/assets/35949a4b-acc6-48f1-88ea-e10d2ee2d85f" />
 
-The server sent all cards to the client. I can use this to win the game, but doing it manually takes a lot of time.
+The server sent all cards to the client. I can use this to win the game, but doing it manually takes a lot of time. On top of everything, the server has a limited waiting time for client responses.
 
 I also analyzed the traffic to figure out how the client initializes the game.
 
