@@ -40,7 +40,7 @@ I found the server's IP addres using IDA.
 
 <img width="425" height="247" alt="изображение" src="https://github.com/user-attachments/assets/64212502-8eab-46f9-b938-2f8bc2dd51af" />
 
-After that I opened Wireshark and analyzed network traffic for this IP addres and saw this:
+After that I opened Wireshark and analyzed network traffic for this IP address and saw this:
 
 <img width="1810" height="315" alt="изображение" src="https://github.com/user-attachments/assets/70374924-9f3a-4f9c-88e7-2db17550365c" />
 
