@@ -135,7 +135,7 @@ int main() {
  struct line row2;
  struct line row3;
 
-    row1 = row_allocator();
+ row1 = row_allocator();
  row2 = row1;
 
  allocate_cols(row1, 0);
