@@ -213,7 +213,8 @@ struct line allocate_cells(int a2, int a3) {
     if (check(a2, a3, 0)) {
     
         result = cell1;        
-        cell1.line_2 = ((100 * a2 + 10 * a3) % 255) ^ flag[100 * a2 + 10 * a3];        printf("%c", cell1.line_2);
+        cell1.line_2 = ((100 * a2 + 10 * a3) % 255) ^ flag[100 * a2 + 10 * a3];
+        printf("%c", cell1.line_2);
     
     }
     
